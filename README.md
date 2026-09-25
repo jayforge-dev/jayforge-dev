@@ -55,5 +55,4 @@ Event-driven backend built with Java, Spring Boot, Apache Kafka, and the Outbox 
 ## Connect
 
 - **Portfolio:** [JayForge](https://jayforge-dev.github.io)  
-- **LinkedIn:** [JayForge](https://linkedin.com/in/jayforge)
 - **itch.io:** [JayForge](https://jayforge.itch.io)
