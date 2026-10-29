@@ -4,7 +4,7 @@
 
 ---
 
-# Hi, I'm Jayanth (JayForge) 👋
+# Hi, I'm JayForge 👋
 
 Software Engineer with **4+ years of professional experience** building backend systems, distributed applications, and scalable software.
 
