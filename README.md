@@ -1,58 +1,49 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="JayForge Banner" width="100%">
-</p>
-
----
-
 # Hi, I'm JayForge 👋
 
-Software Engineer with **4+ years of professional experience** building backend systems, distributed applications, and scalable software.
+Unity Developer focused on building gameplay systems and interactive experiences using **Unity and C#**.
 
-Alongside my professional experience, I build Unity projects focused on gameplay systems, simulation mechanics, and management-style games.
-
----
-
-## Featured Projects
-
-### 🎮 Cinema Rush
-
-Published Unity management-style simulation game featuring customer AI, queue management, seating systems, progression mechanics, game economy, and save functionality.
-
-* 🌐 [Game Projects](https://jayforge-dev.github.io/projects/games.html)
-* 🎮 [Cinema Rush itch.io](https://jayforge.itch.io/cinema-rush)
+My projects explore gameplay mechanics, AI navigation, player interactions, progression systems, and multiplayer networking.
 
 ---
 
-### 💻 E-Commerce Microservices Platform
+## 🎮 Featured Projects
 
-Event-driven backend built with Java, Spring Boot, Apache Kafka, and the Outbox pattern, exploring modern microservices architecture and distributed transaction handling.
+### Cinema Rush
 
+An idle cinema management simulation featuring customer AI, queue management, seating systems, progression mechanics, game economy, and save functionality.
 
-* 🌐 [Software Projects](https://jayforge-dev.github.io/projects/software.html)
-* 📦 [GitHub Repositories](https://github.com/jayforge-dev?tab=repositories)
+- 🌐 [Game Development Portfolio](https://jayforge-dev.github.io/game-dev)
+- 🎮 [Play on itch.io](https://jayforge.itch.io/cinema-rush)
+
+### Kitchen Chaos
+
+A kitchen-based gameplay project exploring single-player mechanics and multiplayer networking using Unity Netcode for GameObjects.
+
+- 📦 [Multiplayer – GitHub](https://github.com/jayforge-dev/unity-tutorial-kitchenchaos-multiplayer)
+- 📦 [Single Player – GitHub](https://github.com/jayforge-dev/Unity-Tutorial-KitchenChaos-Recreation)
 
 ---
 
 ## 🔧 Technologies
 
-- **Unity & Game Development:** Unity, C#, Gameplay Programming
-- **Backend:** Java, Spring Boot, Python, FastAPI, Flask
-- **Distributed Systems:** Apache Kafka, RabbitMQ
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Docker, Git, Jenkins
+- **Game Engine:** Unity 6
+- **Programming:** C#
+- **Gameplay:** Player Movement, Interactions, AI Navigation, NavMesh
+- **Game Systems:** Progression, Economy, UI, Save/Load
+- **Multiplayer:** Netcode for GameObjects
+- **Tools:** Git, TextMeshPro, DOTween, PlayerPrefs
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable backend systems
-- Developing gameplay systems and simulation mechanics
-- Building and expanding through personal projects
-- Software Engineering & Unity Game Development opportunities
+- Developing gameplay systems and interactive experiences.
+- Exploring multiplayer gameplay and networking.
+- Interested in Unity development, gameplay programming, and simulation projects.
 
 ---
 
 ## Connect
 
-- **Portfolio:** [JayForge](https://jayforge-dev.github.io)  
+- **Portfolio:** [JayForge](https://jayforge-dev.github.io/game-dev)
 - **itch.io:** [JayForge](https://jayforge.itch.io)
